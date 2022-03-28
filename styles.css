@@ -138,6 +138,11 @@ width: 150px;
     padding:32px 0;
 }
 
+.header.header_secondary {
+    background-color: var(--color-text-primary);
+    position:initial;
+  }
+
 .header__inner{
     justify-content: space-around;
     align-items: center;
